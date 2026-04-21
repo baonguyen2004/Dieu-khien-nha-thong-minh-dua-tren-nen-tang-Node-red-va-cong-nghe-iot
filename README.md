@@ -51,5 +51,5 @@
 ### 🔧 Phần cứng
 ![Hardware](images/hardware.png)
 
-### 📊 Dashboard Node-RED
+### 📊 Dashboard
 ![Dashboard](images/dashboard.png)
